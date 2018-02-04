@@ -1,5 +1,7 @@
 @charset "utf-8"
 
+
+
 header{
     margin-top: 0px;
     margin-bottom: 10px;
@@ -43,12 +45,25 @@ h1{
     font-weight:bold;
 }
 
+h1.firstH1{
+    margin-left:215px;
+}
+
 .navbar{
     color:darkgray;
     float:right; 
     margin-right:185px;  
     word-spacing:2px; 
     padding-top:30px;
+}
+
+.firstNavbar{
+    color:darkgray;
+    float:right; 
+    margin-right:185px;  
+    word-spacing:2px; 
+    padding-top:30px;
+    margin-right:250px;   
 }
 
 .header-list{
