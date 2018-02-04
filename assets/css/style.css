@@ -252,6 +252,24 @@ aside{
     padding-top:30px;
 }
 
+.contactHeading{
+    color:#4aaaa5;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    font-size:22px;
+    font-weight:bold;
+    border:solid;
+    border-style:hidden;
+    padding: 10px 0px 10px 1px;
+}
+
+.hruleContact{
+    width: 98%;
+    background-color: #dddddd;
+    border: solid;
+    border-color: transparent;
+    height: 0.1px;
+    display: block
+}
 
 
 /*------------portfolio page---------------*/
